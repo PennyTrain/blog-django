@@ -15,7 +15,7 @@ def post_detail(request, slug):
     """
     Display an individual :model:`blog.Post`.
 
-    **Context**
+    **Context** 
 
     ``post``
         An instance of :model:`blog.Post`.
